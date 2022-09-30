@@ -149,6 +149,14 @@ input{
     display: none;
 }
 
+img{
+
+    width: 12rem;
+    height: 3rem;
+    border-radius:  15px;
+    background-color: red;
+}
+
 /* .partOne{
     width: 30rem;
 } */
